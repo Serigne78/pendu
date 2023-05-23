@@ -108,7 +108,7 @@ lives =6
 
 while words != list_words:
   find_words = input("Veuillez chosir une lettre: ").lower()
-  clear()
+  
   words = list(words)
   
   index =0
